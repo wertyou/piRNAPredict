@@ -1,0 +1,2 @@
+# piRNAPredict
+采用Tensorflow框架，分别利用CNN和LSTM对处理的定长序列建模以及利用LSTM对变长序列建模，实现对序列是否是piRNA序列的二分类预测。
